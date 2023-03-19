@@ -16,7 +16,7 @@ public class DoWhileRepeatedQuestionRunner {
 			System.out.print("Enter a number: ");
 			number = scanner.nextInt();
 		} while (number >= 0);
-		System.out.print("Thank You! Have Fun!");
+		System.out.print("Thank You! Have Fun...!");
 	}
 
 }
